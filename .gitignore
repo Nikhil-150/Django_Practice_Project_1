@@ -1,0 +1,15 @@
+.venv/
+
+# Django Specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+
+# IDE
+.idea/
+
+# Environment Variables
+.env
