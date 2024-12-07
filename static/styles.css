@@ -1,0 +1,11 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Apply styles */
+html {
+    font-family: 'Robot Condensed', sans-serif;
+}
+body {
+    margin: 0;
+    background-color: #1a1a1a;
+}
